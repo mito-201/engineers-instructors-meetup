@@ -35,5 +35,5 @@ https://join.slack.com/t/engineersinst-mp04923/shared_invite/zt-o7wz5hkh-23iwHls
   - 事後のサポートは何をしてますか？
 
 # 日時
-- 2021/5/17~28（うち1日）
-- 20:30-22:00
+- 2021年4月後半、または5月後半
+- 20:30-22:00あたり

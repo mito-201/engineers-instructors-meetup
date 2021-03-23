@@ -50,4 +50,5 @@ https://join.slack.com/t/engineersinst-mp04923/shared_invite/zt-o7wz5hkh-23iwHls
   - 上記のslackに参加お願いします。
   - 話し合えるよう、4-5名の講師経験者が集まってくれると嬉しいです。
 
-## とりあえずzoomを送ってみる
+## とりあえずDMを送ってみる
+- どうぞ！
